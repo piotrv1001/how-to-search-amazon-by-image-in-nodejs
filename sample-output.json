@@ -1,0 +1,70 @@
+[
+  {
+    "searchImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800",
+    "position": 1,
+    "asin": "B00H86HIIQ",
+    "url": "https://www.amazon.com/dp/B00H86HIIQ",
+    "title": "Nike Mens Free Flyknit 4.0 Brght Crmsn/White/Unvrsty Rd/T Running Shoe 10.5 M...",
+    "brand": "Nike",
+    "price": 329.99,
+    "listPrice": null,
+    "currency": "USD",
+    "image": "https://m.media-amazon.com/images/I/612nOLpvStL.jpg",
+    "rating": 3.6,
+    "reviewCount": 10,
+    "availability": "IN_STOCK_SCARCE",
+    "productGroup": "shoes",
+    "variationCount": 0,
+    "colorCount": 0,
+    "matchScore": 0.64768875,
+    "detectedObject": {
+      "label": "shoes",
+      "fineLabel": "fashion_sneaker",
+      "confidence": 0.9663,
+      "box": {
+        "x": 149,
+        "y": 34,
+        "width": 490,
+        "height": 440,
+        "imageWidth": 800,
+        "imageHeight": 533
+      }
+    },
+    "marketplace": "amazon.com",
+    "scrapedAt": "2026-10-10T07:29:01.037Z"
+  },
+  {
+    "searchImage": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800",
+    "position": 1,
+    "asin": "B0CKBWL5TZ",
+    "url": "https://www.amazon.com/dp/B0CKBWL5TZ",
+    "title": "Container Furniture Direct Kent Velvet Sofa for Modern Living Rooms and Compact Spaces, Comfy 3 Seater Couch Studio Apartment Furniture with Sleek Design, Green",
+    "brand": "Container Furniture Direct",
+    "price": 259.23,
+    "listPrice": null,
+    "currency": "USD",
+    "image": "https://m.media-amazon.com/images/I/81UJvyQgQDL.jpg",
+    "rating": null,
+    "reviewCount": null,
+    "availability": "IN_STOCK_SCARCE",
+    "productGroup": "furniture",
+    "variationCount": 0,
+    "colorCount": 0,
+    "matchScore": 0.6148632,
+    "detectedObject": {
+      "label": "sofa",
+      "fineLabel": "sofas-couches",
+      "confidence": 0.9977,
+      "box": {
+        "x": 81,
+        "y": 198,
+        "width": 642,
+        "height": 250,
+        "imageWidth": 800,
+        "imageHeight": 533
+      }
+    },
+    "marketplace": "amazon.com",
+    "scrapedAt": "2026-10-10T07:29:01.062Z"
+  }
+]
